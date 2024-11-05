@@ -5,3 +5,8 @@ tgcrypto
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
 lxml_html_clean
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
